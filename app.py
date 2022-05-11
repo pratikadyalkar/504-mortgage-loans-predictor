@@ -12,7 +12,7 @@ myheading1='Predicting Mortgage Loan Approval'
 image1='ames_welcome.jpeg'
 tabtitle = 'Mortgage Loans'
 sourceurl = 'https://www.kaggle.com/burak3ergun/loan-data-set'
-githublink = 'https://github.com/plotly-dash-apps/504-mortgage-loans-predictor'
+githublink = 'https://github.com/pratikadyalkar/504-mortgage-loans-predictor'
 
 
 ########### Model featurse
